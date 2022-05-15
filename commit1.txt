@@ -1,0 +1,6 @@
+ git init
+ git remote add origin https://github.com/Castillojavi/exercicio_6.git
+ git status
+ git add *
+ git status
+ 
