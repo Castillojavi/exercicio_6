@@ -3,7 +3,8 @@
  git status
  git add *
  git status
- 
+
+"primeiro commit" 
 
 "segundo commit" 
 texto de evaluacao
@@ -11,12 +12,21 @@ git branch -M main
 git branch -M feat
 
 git commit branch feat
+"primeiro commit" 
 texto de evaluacao
 
 git commit branch feat
+"segundo commit" 
 texto de evaluacao
 
 git checkout main 
 
 git commit branch main
+"primeiro commit" 
 texto de evaluacao
+
+git commit branch main
+"segundo commit" 
+texto de evaluacao
+"terceiro commit" 
+git push -u origin main
