@@ -4,3 +4,19 @@
  git add *
  git status
  
+
+"segundo commit" 
+texto de evaluacao
+git branch -M main
+git branch -M feat
+
+git commit branch feat
+texto de evaluacao
+
+git commit branch feat
+texto de evaluacao
+
+git checkout main 
+
+git commit branch main
+texto de evaluacao
